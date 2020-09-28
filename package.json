@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@testing-library/jest-native": "3.4.2",
+    "@testing-library/jest-native": "3.4.3",
     "@types/jest": "26.0.14",
     "axios": "0.20.0",
     "axios-mock-adapter": "1.18.2",
